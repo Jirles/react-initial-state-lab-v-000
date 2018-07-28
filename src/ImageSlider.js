@@ -8,7 +8,7 @@ export default class ImageSlider extends React.Component {
       super();
 
       this.state = {
-        
+        currentSlideIndex: 0
       }
     }
   }
