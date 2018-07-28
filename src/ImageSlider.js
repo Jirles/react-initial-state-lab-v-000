@@ -6,6 +6,10 @@ export default class ImageSlider extends React.Component {
   render(){
     constructor(){
       super();
+
+      this.state = {
+        
+      }
     }
   }
 }
